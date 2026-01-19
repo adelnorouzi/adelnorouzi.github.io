@@ -1,2 +1,2 @@
 # adelnorouzi.github.io
-repository for practicing github
+My first repository to practice building my portfolio here!
