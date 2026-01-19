@@ -2,4 +2,4 @@
 
 ## Interests
 - Music
-- Foood
+- Food
