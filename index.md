@@ -1,3 +1,6 @@
-## Likes
+# Adel Norouzi Website
+Computer Science Student | GitHub Portfolio
+
+## Interests
 - Music
-- Food
+- Foood
